@@ -14,7 +14,7 @@
 
 <h3 align="left">Algunos de mis proyectos:</h3>
 
-- [Visualización de Activos Financieros](https://polcord-stocks-visualization-web-page-6t6yts.streamlit.app/`)
+- [Visualización de Activos Financieros](https://polcord-stocks-visualization-web-page-6t6yts.streamlit.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
